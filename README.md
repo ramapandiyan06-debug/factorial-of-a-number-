@@ -54,12 +54,14 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="957" height="190" alt="553299198-28b10bcb-eaf3-4ad4-a951-c374f684d200" src="https://github.com/user-attachments/assets/7d683fe3-c592-4aa8-9a98-a3abe0774e22" />
+
 
 ---
 MANUAL CALCULATIONS
 
----
+![WhatsApp Image 2026-02-26 at 4 11 04 PM](https://github.com/user-attachments/assets/c722265d-7245-47d0-ab4e-0be09806e53b)
+
 
 RESULT
 
